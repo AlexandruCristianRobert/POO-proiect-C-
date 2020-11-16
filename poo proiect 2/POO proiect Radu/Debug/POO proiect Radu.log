@@ -1,0 +1,5 @@
+﻿  POO proiect Radu.cpp
+D:\c# projects\POO proiect Radu\POO proiect Radu\POO proiect Radu.cpp(79,48): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\c# projects\POO proiect Radu\POO proiect Radu\POO proiect Radu.cpp(83,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\c# projects\POO proiect Radu\POO proiect Radu\POO proiect Radu.cpp(103,10): warning C4018: '<': signed/unsigned mismatch
+  POO proiect Radu.vcxproj -> D:\c# projects\POO proiect Radu\Debug\POO proiect Radu.exe
